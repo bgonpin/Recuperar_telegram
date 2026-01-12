@@ -1,0 +1,5 @@
+telethon
+pymongo
+python-dotenv
+PySide6
+qasync
